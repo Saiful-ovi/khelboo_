@@ -22,11 +22,11 @@
 
     <div>
         <label>Title</label>
-        <input style="color: aquamarine" type="text" name="title" placeholder="write a title" required>
+        <input style="color: rgb(0, 0, 0)" type="text" name="title" placeholder="write a title" required>
     </div>
     <div>
         <label>Price</label>
-        <input style="color: aquamarine" type="number" name="price" placeholder="price" required>
+        <input style="color: rgb(0, 0, 0)" type="number" name="price" placeholder="price" required>
     </div>
     <div>
         <label>Image</label>
@@ -34,11 +34,11 @@
     </div>
     <div>
         <label>Deescription</label>
-        <input style="color: aquamarine" type="text" name="description" placeholder="description" required>
+        <input style="color: rgb(0, 0, 0)" type="text" name="description" placeholder="description" required>
     </div>
     <div>
         <label>Offer</label>
-        <input style="color: aquamarine" type="number" name="offer" placeholder="offer" required>
+        <input style="color: rgb(0, 0, 0)" type="number" name="offer" placeholder="offer" required>
     </div>
     <div>
         <input class="btn btn-primary" style="color: white" type="Submit" value="save">

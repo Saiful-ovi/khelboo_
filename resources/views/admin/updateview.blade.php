@@ -42,7 +42,7 @@
     </div>
     <div>
         <label>Old Image</label>
-       <img height="200" width="200" src="/turfimage/{{$data->image}}" alt="">
+       <img height="200"  width="200" src="/turfimage/{{$data->image}}" alt="">
     </div>
     <div>
         <label>New Image</label>
